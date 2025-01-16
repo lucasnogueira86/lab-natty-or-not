@@ -20,19 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O futuro das Operacoes Bancarias: agilidade e eficiencia com utilizacao de inteligencia artificial.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Como a IA pode transformar e automatizar processos, com ganho em produtividade e automacao.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat IA
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+identificacao de potencial de automacao em processos que atuo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+processos ageis e eficientes
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
